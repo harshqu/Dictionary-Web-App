@@ -1,48 +1,29 @@
-Dictionary Web App
-A modern, feature-rich dictionary web application that provides:
+# Dictionary Web App
 
-Word definitions with parts of speech (noun/verb/adjective)
+![Dictionary App Screenshot](./screenshot.png) <!-- Add your screenshot file -->
 
-Pronunciation with audio playback
+A modern dictionary web application with definitions, pronunciation audio, examples, and synonyms. Features dark/light mode toggle and font customization.
 
-Examples of word usage in sentences
+## Features
 
-Synonyms for each meaning
+- 📖 Word definitions with parts of speech
+- 🔊 Audio pronunciation
+- 📝 Usage examples
+- 🔤 Synonyms display
+- 🌙 Dark/light mode toggle
+- ✒️ Multiple font options
+- 📱 Fully responsive design
 
-Dark/Light mode toggle with navy blue theme
+## Technologies Used
 
-Font customization (5+ font options)
+- HTML5
+- CSS3 (Flexbox, CSS Variables)
+- JavaScript (Fetch API)
+- [DictionaryAPI](https://dictionaryapi.dev/)
+- Font Awesome icons
 
-Responsive design that works on all devices
+## Installation
 
-Key Features
-🔍 Real-time API integration - Fetches data from Free Dictionary API
-🎨 Customizable UI - Toggle between dark/light mode and change fonts
-🔊 Audio pronunciation - Hear how words are pronounced
-📱 Mobile-friendly - Fully responsive design
-
-Built With
-HTML5, CSS3, JavaScript
-
-DictionaryAPI.dev (free dictionary API)
-
-Font Awesome icons
-
-How to Use
-Search for any English word
-
-View definitions, examples, and synonyms
-
-Click the audio button to hear pronunciation
-
-Customize appearance using theme and font options
-
-Perfect for developers looking to:
-
-Practice API integration
-
-Implement theme toggling
-
-Build responsive web apps
-
-Live Demo | Report Issue | Contribute
+1. Clone the repository:
+```bash
+git clone https://github.com/your-username/dictionary-app.git
