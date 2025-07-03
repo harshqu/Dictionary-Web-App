@@ -1,6 +1,4 @@
-# Dictionary Web App
-
-![Dictionary App Screenshot](./screenshot.png) <!-- Add your screenshot file -->
+# Dictionary Web App 
 
 A modern dictionary web application with definitions, pronunciation audio, examples, and synonyms. Features dark/light mode toggle and font customization.
 
